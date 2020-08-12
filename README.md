@@ -9,12 +9,12 @@ This is a simple project for turning the lights on and off.You can modify it to 
 
 
 # Requirements:
-  -.arduino 
-  -.bluetoothmodule HC-05
-  -.relay(real life implementation)
-  -.Two resistors (1k and 2.2k) for voltage dividing
-  -.led
-  -.breadboard and wire
+  1. arduino 
+  2. bluetoothmodule HC-05
+  3. relay(real life implementation)
+  4. Two resistors (1k and 2.2k) for voltage dividing
+  5. led
+  6. breadboard and wire
   
   
 # The thing u should know:

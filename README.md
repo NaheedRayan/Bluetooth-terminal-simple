@@ -6,7 +6,6 @@ This is a simple project for turning the lights on and off.You can modify it to 
 # The Schematic is given below:
 ![alt text](https://hackster.imgix.net/uploads/attachments/273065/relay_bb_jHQ48yEvCR.png?auto=compress%2Cformat&w=680&h=510&fit=max)
 
-<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140750.jpg?raw=true" width="256" height="256" title="Github Logo">
 
 
 # Requirements:
@@ -24,9 +23,10 @@ The arduino pushes 5V logic to bluetooth module.So we have to handle the voltage
 Now set up the circuit.Some high res pic are also given
 
 ![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140750.jpg?raw=true)
-![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140851.jpg?raw=true)
-![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140902.jpg?raw=true)
-![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140914.jpg?raw=true)
+<img src="github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140851.jpg?raw=true" width="300" height="400" title="Github Logo">
+<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140902.jpg?raw=true" width="300" height="400" title="Github Logo">
+<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140914.jpg?raw=true" width="300" height="400" title="Github Logo">
+
 
 # Upload the code to arduino
 #include <SoftwareSerial.h> 

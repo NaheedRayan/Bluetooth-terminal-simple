@@ -102,10 +102,10 @@ void processCommand(){
   
 
 ## For more info u can checkout this link
-### https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253
+### [Create.arduino.cc](https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253)
 
 ## Some apps in appstore u can download:
-### https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
+### [PlayStore](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en)
 
 
 

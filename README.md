@@ -23,12 +23,13 @@ The arduino pushes 5V logic to bluetooth module.So we have to handle the voltage
 Now set up the circuit.Some high res pic are also given
 
 ![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140750.jpg?raw=true)
-<img src="github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140851.jpg?raw=true" width="300" height="400" title="Github Logo">
+<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140851.jpg?raw=true" width="300" height="400" title="Github Logo">
 <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140902.jpg?raw=true" width="300" height="400" title="Github Logo">
 <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140914.jpg?raw=true" width="300" height="400" title="Github Logo">
 
 
 # Upload the code to arduino
+<p>
 #include <SoftwareSerial.h> 
 #define RELAY 10 
 #define LIGHT 13 
@@ -88,7 +89,7 @@ void processCommand(){
    break; 
  } 
 } 
-
+  </p>
 
 # Pro tip: if u are using Serial for rx and tx then pull the wires connecting it .Then upload the code.After uploading connect the wires😎😎
 

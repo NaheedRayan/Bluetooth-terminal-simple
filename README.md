@@ -6,6 +6,8 @@ This is a simple project for turning the lights on and off.You can modify it to 
 # The Schematic is given below:
 ![alt text](https://hackster.imgix.net/uploads/attachments/273065/relay_bb_jHQ48yEvCR.png?auto=compress%2Cformat&w=680&h=510&fit=max)
 
+<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140750.jpg?raw=true" width="256" height="256" title="Github Logo">
+
 
 # Requirements:
   1.arduino 

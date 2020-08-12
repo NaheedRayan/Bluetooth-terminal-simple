@@ -29,7 +29,7 @@ Now set up the circuit.Some high res pic are also given
 
 
 # Upload the code to arduino
-
+```
 #include <SoftwareSerial.h> 
 #define RELAY 10 
 #define LIGHT 13 
@@ -89,7 +89,7 @@ void processCommand(){
    break; 
  } 
 } 
-  
+```
 
 ## Pro tip: if u are using Serial for rx and tx then pull the wires connecting it .Then upload the code.After uploading connect the wires😎😎
 
@@ -101,11 +101,11 @@ void processCommand(){
   <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-48-953_com.android.settings.jpg?raw=true" width="400" height="720" title="Github Logo">
   
 
-# For more info u can checkout this link
-## https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253
+## For more info u can checkout this link
+### https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253
 
-# Some apps in appstore u can download:
-## https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
+## Some apps in appstore u can download:
+### https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
 
 
 

@@ -25,11 +25,11 @@ Now set up the circuit.Some high res pic are also given
 ![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140750.jpg?raw=true)
 <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140851.jpg?raw=true" width="300" height="400" title="Github Logo">
 <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140902.jpg?raw=true" width="300" height="400" title="Github Logo">
-<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140914.jpg?raw=true" width="300" height="400" title="Github Logo">
+<img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/IMG_20200812_140914.jpg?raw=true" width="400" height="400" title="Github Logo">
 
 
 # Upload the code to arduino
-<p>
+
 #include <SoftwareSerial.h> 
 #define RELAY 10 
 #define LIGHT 13 
@@ -89,16 +89,17 @@ void processCommand(){
    break; 
  } 
 } 
-  </p>
+  
 
-# Pro tip: if u are using Serial for rx and tx then pull the wires connecting it .Then upload the code.After uploading connect the wires😎😎
+## Pro tip: if u are using Serial for rx and tx then pull the wires connecting it .Then upload the code.After uploading connect the wires😎😎
 
 # Android app:The source code is given.
   What to modify? Modify the mac address in the MainActivity with you bluetooth module.
   While pairing with bluetooth module give access to contacts and call history.This is important.🙄🙄🙄 
-
-![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-34-168_com.android.settings.jpg?raw=true|width=100)
-![alt text](https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-48-953_com.android.settings.jpg?raw=true)
+  
+  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-34-168_com.android.settings.jpg?raw=true" width="480" height="720" title="Github Logo">
+  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-48-953_com.android.settings.jpg?raw=true" width="480" height="720" title="Github Logo">
+  
 
 # For more info u can checkout this link
 # https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253

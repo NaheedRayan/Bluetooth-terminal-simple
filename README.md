@@ -1,7 +1,8 @@
 # Bluetooth-terminal-simple
 
+This is a simple project for turning the lights on and off.You can modify it to your own content.
 
 
 
 
-![alt text](https://hackster.imgix.net/uploads/attachments/273065/relay_bb_jHQ48yEvCR.png?auto=compress%2Cformat&w=680&h=510&fit=max)
+![alt text](https://drive.google.com/drive/u/0/my-drive)

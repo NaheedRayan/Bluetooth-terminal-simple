@@ -97,15 +97,15 @@ void processCommand(){
   What to modify? Modify the mac address in the MainActivity with you bluetooth module.
   While pairing with bluetooth module give access to contacts and call history.This is important.🙄🙄🙄 
   
-  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-34-168_com.android.settings.jpg?raw=true" width="480" height="720" title="Github Logo">
-  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-48-953_com.android.settings.jpg?raw=true" width="480" height="720" title="Github Logo">
+  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-34-168_com.android.settings.jpg?raw=true" width="400" height="720" title="Github Logo">
+  <img src="https://github.com/NaheedRayan/Readme-Images/blob/master/Bluetooth%20project%20simple/Screenshot_2020-08-12-14-11-48-953_com.android.settings.jpg?raw=true" width="400" height="720" title="Github Logo">
   
 
 # For more info u can checkout this link
-# https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253
+## https://create.arduino.cc/projecthub/azoreanduino/simple-bluetooth-lamp-controller-using-android-and-arduino-aa2253
 
 # Some apps in appstore u can download:
-# https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
+## https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
 
 
 
